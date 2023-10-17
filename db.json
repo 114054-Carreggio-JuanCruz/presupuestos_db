@@ -1,10 +1,46 @@
 {
-  "posts": [
+  "Presupuestos": [
     {
       "id": 1,
-      "title": "hello"
+      "cliente": "La Pinchincha S.A.",
+      "fecha_creacion": "2023-10-01",
+      "fecha_vencimiento": "2023-10-07",
+      "productos": [
+        {
+          "id": 10,
+          "descripcion": "Clavos",
+          "cantidad": 2,
+          "unidad": "KG"
+        },
+        {
+          "id": 11,
+          "descripcion": "Martillo",
+          "cantidad": 1,
+          "unidad": "unidad"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cliente": "Otra Empresa S.A.",
+      "fecha_creacion": "2023-10-02",
+      "fecha_vencimiento": "2023-10-08",
+      "productos": [
+        {
+          "id": 12,
+          "descripcion": "Pintura",
+          "cantidad": 5,
+          "unidad": "L"
+        },
+        {
+          "id": 13,
+          "descripcion": "Pincel",
+          "cantidad": 3,
+          "unidad": "unidad"
+        }
+      ]
     }
-  ],
+  ]
   "profile": {
     "name": "typicode"
   }
