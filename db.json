@@ -4,7 +4,9 @@
       
       "id": 1,
       "nro_presupuesto" : "001-0001",
-      "cliente": {
+      "cliente": 
+      [
+        {
         "id": 2,
         "nombre": "Juan",
         "apellido": "Nievas",
@@ -28,7 +30,8 @@
             "descripcion": "E"
         },
         "cant_puntos": 45
-      },
+      }
+      ]
       "fecha_creacion": "2023-10-01",
       "fecha_vencimiento": "2023-10-07",
       "productos": [
@@ -50,6 +53,7 @@
       "id": 2,
        "nro_presupuesto" : "001-0002",
       "cliente": 
+      [
       {
         "id": 1,
         "nombre": "Susana",
@@ -69,8 +73,9 @@
             "id_tipo_cliente": 2,
             "tipo_cliente": "Persona"
         },
-        "cant_puntos": 60
-    },
+        "cant_puntos": 60 
+      }
+      ],
       "fecha_creacion": "2023-10-02",
       "fecha_vencimiento": "2023-10-08",
       "productos": [
@@ -92,7 +97,9 @@
     {
       "id": 3,
       "nro_presupuesto" : "001-0003",
-      "cliente": {
+      "cliente":
+      [
+      {
         "id": 3,
         "nombre": "Laura",
         "apellido": "Pérez",
@@ -112,7 +119,8 @@
             "tipo_cliente": "Empresa"
         },
         "cant_puntos": 80
-    },
+    }
+      ]
       "fecha_creacion": "2023-10-10",
       "fecha_vencimiento": "2023-10-20",
       "productos": [
