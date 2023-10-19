@@ -1,7 +1,9 @@
 {
   "Presupuestos": [
     {
+      
       "id": 1,
+      "nro_presupuesto" : "001-0001",
       "cliente": "La Pinchincha S.A.",
       "fecha_creacion": "2023-10-01",
       "fecha_vencimiento": "2023-10-07",
@@ -22,6 +24,7 @@
     },
     {
       "id": 2,
+       "nro_presupuesto" : "001-0002",
       "cliente": "Rita Perez",
       "fecha_creacion": "2023-10-02",
       "fecha_vencimiento": "2023-10-08",
@@ -38,6 +41,22 @@
           "cantidad": 3,
           "unidad": "unidad"
         }
+      ]
+    },
+    
+    {
+      "id": 3,
+      "nro_presupuesto" : "001-0003",
+      "cliente": "Susana Horia",
+      "fecha_creacion": "2023-10-10",
+      "fecha_vencimiento": "2023-10-20",
+      "productos": [
+        {
+          "id": 55,
+          "descripcion": "Bulones varios",
+          "cantidad": 0.5,
+          "unidad": "KG"
+        },
       ]
     }
   ],
