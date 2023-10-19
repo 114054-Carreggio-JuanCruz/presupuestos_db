@@ -92,7 +92,6 @@
         }
       ]
     },
-    
     {
       "id": 3,
       "nro_presupuesto" : "001-0003",
@@ -130,8 +129,8 @@
           "unidad": "KG"
         },
       ]
-    }
-  ]
+    },
+  ],
   "profile": {
     "name": "typicode"
   }
