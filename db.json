@@ -19,8 +19,28 @@
           "unidad": "unidad"
         }
       ]
-     }
-  ], 
+    },
+    {
+      "id": 2,
+      "nro_presupuesto" : "002-0002",
+      "fecha_creacion": "2023-10-02",
+      "fecha_vencimiento": "2023-10-08",
+      "productos": [
+        {
+          "id": 12,
+          "descripcion": "Taladro",
+          "cantidad": 1,
+          "unidad": "unidad"
+        },
+        {
+          "id": 13,
+          "descripcion": "Tornillos",
+          "cantidad": 10,
+          "unidad": "KG"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
