@@ -18,10 +18,10 @@
           "descripcion": "Martillo",
           "cantidad": 1,
           "unidad": "unidad"
-        },
-      ],
+        }
+      ]
      }
-  ],  
+  ] 
   "profile": {
     "name": "typicode"
   }
