@@ -30,7 +30,7 @@
             "descripcion": "E"
         },
         "cant_puntos": 45
-      }
+        }
       ],
       "fecha_creacion": "2023-10-01",
       "fecha_vencimiento": "2023-10-07",
@@ -48,7 +48,7 @@
           "unidad": "unidad"
         },
       ],
-     },
+     }
   ],  
   "profile": {
     "name": "typicode"
