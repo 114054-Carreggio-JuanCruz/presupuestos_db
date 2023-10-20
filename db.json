@@ -4,34 +4,6 @@
       
       "id": 1,
       "nro_presupuesto" : "001-0001",
-      "cliente": 
-      [
-        {
-        "id": 2,
-        "nombre": "Juan",
-        "apellido": "Nievas",
-        "email": "juan.nievas@gmail.com",
-        "telefono": "987654321",
-        "id_tipo_doc": {
-            "id_tipo_doc": 2,
-            "tipo_documento": "CUIL/CUIT"
-        },
-        "nro_doc": 23456789,
-        "id_categoria_fiscal": {
-            "id_categoria": 1,
-            "descripcion": "Monotributista"
-        },
-        "id_tipo_cliente": {
-            "id_tipo_cliente": 1,
-            "tipo_cliente": "Empresa"
-        },
-        "id_clasificacion": {
-            "id_clasificacion": 5,
-            "descripcion": "E"
-        },
-        "cant_puntos": 45
-        }
-      ],
       "fecha_creacion": "2023-10-01",
       "fecha_vencimiento": "2023-10-07",
       "productos": [
