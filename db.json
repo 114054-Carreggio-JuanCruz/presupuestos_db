@@ -5,7 +5,14 @@
       "nro_presupuesto" : "001-0001",
       "fecha_creacion": "2023-10-01",
       "fecha_vencimiento": "2023-10-07",
-      "cliente": "Rita Mabel Rodriguez",
+      "cliente":[
+        {
+          "nro_doc":23364444,  
+          "nombre":"Rita Mabel ",
+            "apellido":"Rodriguez",
+            "cant_puntos":22
+        }
+      ],
       "productos": [
         {
           "id": 10,
@@ -26,7 +33,14 @@
       "nro_presupuesto" : "002-0002",
       "fecha_creacion": "2023-10-02",
       "fecha_vencimiento": "2023-10-08",
-      "cliente": "Juan Roman Tristelme",
+      "cliente": [
+        {
+          "nro_doc":30456066,  
+          "nombre":"Juan Roberto ",
+            "apellido":"Artimez",
+            "cant_puntos":22
+        }
+      ],
       "productos": [
         {
           "id": 12,
